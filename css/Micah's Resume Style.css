@@ -1,0 +1,47 @@
+
+body{
+    background-color:  rgba(230, 167, 86, 0.9);
+}
+
+.common {
+    background-color: lightblue;
+    border: 2px solid lightgray;
+}
+
+.bold {
+    font-weight:bold;
+    }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 230px;
+    }
+
+li {
+    font-size: 18px;
+    }
+.liheader {
+    font-size: 21px;
+    }
+
+.mybusinesspage {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    }
+   
+.skills{
+    color: white;
+}
+
+.box1{
+    background: bisque;
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+.underline{
+    text-decoration: underline;
+}
