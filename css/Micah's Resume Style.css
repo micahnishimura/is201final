@@ -20,6 +20,7 @@ body{
 
 li {
     font-size: 18px;
+    color: rgb(43, 34, 27);
     }
 .liheader {
     font-size: 21px;
@@ -28,6 +29,7 @@ li {
 .mybusinesspage {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    color:darkslateblue;
     }
    
 .skills{
@@ -57,7 +59,6 @@ li {
 
 }
 .videotext{
-    color: black;
     font-weight: bold;
     font-size: 20px;
 }
